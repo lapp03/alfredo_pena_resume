@@ -2,10 +2,8 @@
 layout: cv
 title: Alfredo Pena's Resume
 ---
+
 # Alfredo Pena
-
-I am a Data Science major (GPA 3.8) with a strong background in linguistics and language teaching. I know SQL, Python, R and Statistical Analysis (machine learning, data programming & visualization, applied statistical modeling, object-oriented programming), with a great domain of Excel, Tableau, and Power BI. 
-
 
 <div id="webaddress">
 <a href="alfredo.pena03@gmail.com">alfredo.pena03@gmail.com</a>
@@ -21,64 +19,72 @@ I am a Data Science major (GPA 3.8) with a strong background in linguistics and 
 __Brigham Young University-ID__, Rexburg, ID
 
 - Full academic scholarship with 3.8 GPA
+- Major: data science / minor: Mandarin
 
 ## Related Experience
 
 ### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`September 2020 - December 2020`
+__BYU-Pathway Worldwide__, Salt Lake City, UT
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Purpose: clean and format data for use in Power BI reports; maintain and update dashboard reports daily and weekly; pull data from both Microsoft Databases using SQL; present work to executive team regularly
+- Tools used: Power BI, R (dplyr, tidyverse), SQL
+- Benefits: created three new reports for different departments to use
 
-### Data Science Lead
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+### Student Jobs
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+`March 2019 - June 2020`
+__BYU-I English Education Department__, Data Specialist
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+- Purpose: collect, wrangle, and analyze department-related data; prepare local and state reports; other work as required
+- Tools used: SQL/MySQL, R (Rmarkdown, dplyr, ggplot2, plotly), git, HTML, Excel (conditional formatting)
+- Benefits: my website helped shorten weekly meetings by at least 40 minutes; I created the first database for the department
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
 
-### Data Science Consulting Team
+`September 2019 - December 2019`
+__BYU-I English Transitional Center__, Institutional Research Analyst
 
-`January 2027 - April 2027`
-__Imagine Learning__
+- Purpose: devise methods for collecting data; conduct statistical and qualitative analysis to address improvement goals; help in policy planning
+- Tools used: Power BI, Qualtrics, Rstudio, logistic & linear regression,  R (dplyr, ggplot2, plotly), PowerPoint 
+- Benefits: found at least two areas the center could improve on; discovered irregularities in reports resulting in saving $250
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
+### Major Projects
 
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+`Spring 2020`
+__Adventure Works Cycles, Inc Data Analysis__
+
+- Purpose: using regression, predict how much a new customer will spend; using classification, predict whether  a new customer will buy a certain bike or not
+- Tools used: Power BI (dax), R (ggplot2, tidyverse, stats).
+
+`Fall 2019`
+__Why Do I Like this? Data Analysis of Comedy using NLP__, 
+
+- Purpose: analyze Stand Up comedy shows transcripts to understand the main features that make it more appealing to users
+- Tools used: R (tidyverse, stringr, sentimentr, tm, NLP)
+
+
+## Skills
+
+- R(dplyr, tidyverse, ggplot2,Rmarkdown), Machine Learning (Regression, Classification), BI (Tableau, PowerBI), Python (Pandas, NumPy, Seaborn, Plotly, Matplotlib)
+- Other (Spanish, Portuguese, Catalan)
 
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`2018-2020`
+__English Tutor__, Brigham Young University-Idaho
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+`2013-2015`
+__Service Missionary__, Spain
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2021 -->
 
 
