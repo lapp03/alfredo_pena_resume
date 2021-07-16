@@ -3,13 +3,14 @@ layout: cv
 title: Alfredo Pena's Resume
 ---
 # Alfredo Pena
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+I am a Data Science major (GPA 3.8) with a strong background in linguistics and language teaching. I know SQL, Python, R and Statistical Analysis (machine learning, data programming & visualization, applied statistical modeling, object-oriented programming), with a great domain of Excel, Tableau, and Power BI. 
+
+I am also a very self-sufficient learner completely fluent in Spanish, English, Portuguese, and Catalan, which facilitates working in diverse cultures and assuming leadership roles, as well as helping with oral and written communication.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="alfredo.pena03@gmail.com">alfredo.pena03@gmail.com</a>
+| <a href="https://www.linkedin.com/in/alfredo-pena-polanco">LinkedIn</a>
+| <a href="https://github.com/lapp03">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -17,15 +18,9 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 ## Education
 
 `2017-2021`
-__LDS Business College__, Salt Lake City, UT
+__Brigham Young University-ID__, Rexburg, ID
 
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
-
+- Full academic scholarship with 3.8 GPA
 
 ## Related Experience
 
