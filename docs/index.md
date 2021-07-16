@@ -3,9 +3,9 @@ layout: cv
 title: Alfredo Pena's Resume
 ---
 # Alfredo Pena
+
 I am a Data Science major (GPA 3.8) with a strong background in linguistics and language teaching. I know SQL, Python, R and Statistical Analysis (machine learning, data programming & visualization, applied statistical modeling, object-oriented programming), with a great domain of Excel, Tableau, and Power BI. 
 
-I am also a very self-sufficient learner completely fluent in Spanish, English, Portuguese, and Catalan, which facilitates working in diverse cultures and assuming leadership roles, as well as helping with oral and written communication.
 
 <div id="webaddress">
 <a href="alfredo.pena03@gmail.com">alfredo.pena03@gmail.com</a>
