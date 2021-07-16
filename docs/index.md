@@ -2,7 +2,7 @@
 layout: cv
 title: Alfredo Pena's Resume
 ---
-# Brigham Young
+# Alfredo Pena
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
@@ -16,7 +16,7 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
+`2017-2021`
 __LDS Business College__, Salt Lake City, UT
 
 - Full academic scholarship with 4.0 GPA
